@@ -5,6 +5,8 @@ Domain penetration automation module one, domain information collection.
 
 根据下边参考资料，完成模块二。
 
+招募队友，会C#，并且对域渗透自动化感兴趣的小伙伴,我们一起搞事情。
+
 ![moduleTwo](https://user-images.githubusercontent.com/125958751/229003621-6510f7b5-d813-4550-a38d-76ce948bb8f3.jpg)
 
 # 联系
